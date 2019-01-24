@@ -22,9 +22,9 @@ Technology
 How to run this project?
 =======
 Firstly, download the project and you need visual studio to run this project. if you have visual studio installed then open the Red black tree folder and run “RedBlackTree.sln”. So the project will be opened in Visual studio now press “ctrl+f5” to execute the code. Please make sure you have opened “RedBlackTree.sln” file in order to execute code perfectly.
+
 Note: The project was last built on .net framework 4.5.2 if you have older version of .net framework, you also can run the project by setting the version of .net framework according to you.
 
 Visual Representation
 =======
 Please refer to the image “POSTER RED-BLACK TREE.jpg”. The image shows you the Working of red black tree and briefly describe you the cases used in balancing of red black tree.
-Note: The image is poster which is also displayed in a poster session in University.
