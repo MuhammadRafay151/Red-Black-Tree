@@ -10,7 +10,7 @@ Group Members
 
 Project Description
 ==============
-The project is about the tree data structure and the tree is red black tree. Red black tree is also a binary search tree. Red black trees are self-balancing while BST is unbalanced. Red black tree performs operations like insertion, deletion and search in O(LOGN). So insertion and deletion is much faster than BST. The project contains operation (Public Methods) to insert values, delete values search values, calculate size of tree, calculate height of trees. there are some private methods which are used in internal working of red black tree for balancing purpose of tree. 
+The project is about the tree data structure and the tree is red black tree. Red black tree is also a binary search tree. Red black trees are self-balancing while BST is unbalanced. Red black tree performs operations like insertion, deletion and search in O(LOGN). So insertion and deletion is much faster than BST. The project contains operation (Public Methods) to insert values, delete values, search values, calculate size of tree, calculate height of trees. There are some private methods which are used in internal working of red black tree for balancing purpose of tree. 
 
 Technology 
 =======================
@@ -21,7 +21,7 @@ Technology
 
 How to run this project?
 =======
-Firstly, download the project and you need visual studio to run this project. if you have visual studio installed then open the Red black tree folder and run “RedBlackTree.sln”. So the project will be opened in Visual studio now press “ctrl+f5” to execute the code. Please make sure you have opened “RedBlackTree.sln” file in order to execute code perfectly.
+Firstly, download the project and you need visual studio to run this project. If you have visual studio installed then open the Red black tree folder and run “RedBlackTree.sln”. So the project will be opened in Visual studio now press “ctrl+f5” to execute the code. Please make sure you have opened “RedBlackTree.sln” file in order to execute code perfectly.
 
 Note: The project was last built on .net framework 4.5.2 if you have older version of .net framework, you also can run the project by setting the version of .net framework according to you.
 
